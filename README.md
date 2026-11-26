@@ -6,7 +6,7 @@
 
 Building practical software solutions with a focus on cross-platform applications, clean architecture, and useful data-driven experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AzzamAl--Fayzy-181717?style=flat-square&logo=github)](https://github.com/azzam-mutlaq-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-azzam--mutlaq--dev-181717?style=flat-square&logo=github)](https://github.com/azzam-mutlaq-dev)
 [![Location](https://img.shields.io/badge/Location-Taiz%2C%20Yemen-0b3d5e?style=flat-square)](https://github.com/azzam-mutlaq-dev)
 
 </div>
