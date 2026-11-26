@@ -6,8 +6,8 @@
 
 Building practical software solutions with a focus on cross-platform applications, clean architecture, and useful data-driven experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AzzamAl--Fayzy-181717?style=flat-square&logo=github)](https://github.com/AzzamAl-Fayzy)
-[![Location](https://img.shields.io/badge/Location-Taiz%2C%20Yemen-0b3d5e?style=flat-square)](https://github.com/AzzamAl-Fayzy)
+[![GitHub](https://img.shields.io/badge/GitHub-AzzamAl--Fayzy-181717?style=flat-square&logo=github)](https://github.com/azzam-mutlaq-dev)
+[![Location](https://img.shields.io/badge/Location-Taiz%2C%20Yemen-0b3d5e?style=flat-square)](https://github.com/azzam-mutlaq-dev)
 
 </div>
 
@@ -27,9 +27,9 @@ I am a software developer from Taiz, Yemen, interested in turning practical prob
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [bmi_app](https://github.com/AzzamAl-Fayzy/bmi_app) | Flutter application exploring forms, authentication UI, navigation, and BMI-related screens | Active learning project |
-| [az-az](https://github.com/AzzamAl-Fayzy/az-az) | TypeScript/React web application built around an Azure-inspired interface | Experimental project |
-| [ma-platform-az](https://github.com/AzzamAl-Fayzy/ma-platform-az) | Private TypeScript/React logistics-platform interface experiment | Private / experimental |
+| [bmi_app](https://github.com/azzam-mutlaq-dev/bmi_app) | Flutter application exploring forms, authentication UI, navigation, and BMI-related screens | Active learning project |
+| [az-az](https://github.com/azzam-mutlaq-dev/az-az) | TypeScript/React web application built around an Azure-inspired interface | Experimental project |
+| [ma-platform-az](https://github.com/azzam-mutlaq-dev/ma-platform-az) | Private TypeScript/React logistics-platform interface experiment | Private / experimental |
 
 > Project descriptions intentionally reflect the repositories' current scope and status rather than implying production readiness.
 
@@ -43,7 +43,7 @@ This profile focuses on real repositories and transparent project status. GitHub
 
 ## Contact
 
-The best way to connect is through [GitHub](https://github.com/AzzamAl-Fayzy). For professional opportunities or collaboration, please open a discussion through a public repository or use a verified contact link added to the profile in the future.
+The best way to connect is through [GitHub](https://github.com/azzam-mutlaq-dev). For professional opportunities or collaboration, please open a discussion through a public repository or use a verified contact link added to the profile in the future.
 
 ---
 
